@@ -7,8 +7,6 @@
 - [VPC of BTZ-043 stratified on food-type](VPC-of-BTZ-043-stratified-on-food-type)
 - [VPC of M1 stratified on food-type](VPC-of-M1-stratified-on-food-type)
 - [VPC of M2 stratified on food-type](VPC-of-M2-stratified-on-food-type)
-- [Pharmacokinetic model code](Pharmacokinetic-model-code)
-- [Pharmacodynamic model code](Pharmacodynamic-model-code)
 
 ## Estimated PK model parameters
 
@@ -44,6 +42,10 @@
 |     Proportional error BTZ-043 (CV%)                   |     50.5 (47.7-53.4)         |                                                         |  
 |     Proportional error M1 (CV%)                        |     33.8 (32.4-35.1)         |                                                         |   
 |     Proportional error M2 (CV%)                        |     29.0 (28.0-30.1)         |                                                         | 
+
+CV% was calculated as sqrt(exp(OM^2)-1). Disposition parameters were allometrically scaled using a reference total body weight of 70kg. 
+a Parameterized as percentage slower in cape-colored participants vs. other participants. 
+b Parameterized as decrease in clearance after day 10 compared to before day 10.
 
 
 ## Estimated PD model parameters
@@ -84,9 +86,18 @@
 
 ## VPC of BTZ-043 stratified on food-type
 
+![BTZ-043](BTZ-043_food_VPC.png)
 
+Figure S1: Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted BTZ-043 concentrations for standard food after dose, standard food, no food, and high-fat food. 
 
+## VPC of M1 stratified on food-type
 
+![BTZ-043-M1](M1_food_VPC.png)
 
+Figure S1: Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted M1 concentrations for standard food after dose, standard food, no food, and high-fat food. 
 
+## VPC of M2 stratified on food-type
 
+![BTZ-043-M2](M2_food_VPC.png)
+
+Figure S1: Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted M2 concentrations for standard food after dose, standard food, no food, and high-fat food. 
