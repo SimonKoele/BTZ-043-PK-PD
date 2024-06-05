@@ -88,16 +88,16 @@ b Parameterized as decrease in clearance after day 10 compared to before day 10.
 
 ![BTZ-043](BTZ-043_food_VPC.png)
 
-Figure S1: Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted BTZ-043 concentrations for standard food after dose, standard food, no food, and high-fat food. 
+Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted BTZ-043 concentrations for standard food after dose, standard food, no food, and high-fat food. 
 
 ## VPC of M1 stratified on food-type
 
 ![BTZ-043-M1](M1_food_VPC.png)
 
-Figure S1: Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted M1 concentrations for standard food after dose, standard food, no food, and high-fat food. 
+Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted M1 concentrations for standard food after dose, standard food, no food, and high-fat food. 
 
 ## VPC of M2 stratified on food-type
 
 ![BTZ-043-M2](M2_food_VPC.png)
 
-Figure S1: Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted M2 concentrations for standard food after dose, standard food, no food, and high-fat food. 
+Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted M2 concentrations for standard food after dose, standard food, no food, and high-fat food. 
