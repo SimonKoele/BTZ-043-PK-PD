@@ -3,10 +3,10 @@
 ## Table of Contents
 
 - [Estimated PK model parameters](#Estimated-PK-model-parameters)
-- [Estimated PD model parameters](Estimated-PD-model-parameters)
-- [VPC of BTZ-043 stratified on food type](VPC-of-BTZ-043-stratified-on-food-type)
-- [VPC of M1 stratified on food type](VPC-of-M1-stratified-on-food-type)
-- [VPC of M2 stratified on food type](VPC-of-M2-stratified-on-food-type)
+- [Estimated PD model parameters](#Estimated-PD-model-parameters)
+- [VPC of BTZ-043 stratified on food type](#VPC-of-BTZ-043-stratified-on-food-type)
+- [VPC of M1 stratified on food type](#VPC-of-M1-stratified-on-food-type)
+- [VPC of M2 stratified on food type](#VPC-of-M2-stratified-on-food-type)
 
 ## Estimated PK model parameters
 
