@@ -4,9 +4,9 @@
 
 - [Estimated PK model parameters](#Estimated-PK-model-parameters)
 - [Estimated PD model parameters](Estimated-PD-model-parameters)
-- [VPC of BTZ-043 stratified on food-type](VPC-of-BTZ-043-stratified-on-food-type)
-- [VPC of M1 stratified on food-type](VPC-of-M1-stratified-on-food-type)
-- [VPC of M2 stratified on food-type](VPC-of-M2-stratified-on-food-type)
+- [VPC of BTZ-043 stratified on food type](VPC-of-BTZ-043-stratified-on-food-type)
+- [VPC of M1 stratified on food type](VPC-of-M1-stratified-on-food-type)
+- [VPC of M2 stratified on food type](VPC-of-M2-stratified-on-food-type)
 
 ## Estimated PK model parameters
 
@@ -84,19 +84,19 @@ b Parameterized as decrease in clearance after day 10 compared to before day 10.
 |     Proportional error M2 (CV%)                        |     29.0 (28.0-30.1)         |                                                         |  
 
 
-## VPC of BTZ-043 stratified on food-type
+## VPC of BTZ-043 stratified on food type
 
 ![BTZ-043](BTZ-043_food_VPC.png)
 
 Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted BTZ-043 concentrations for standard food after dose, standard food, no food, and high-fat food. 
 
-## VPC of M1 stratified on food-type
+## VPC of M1 stratified on food type
 
 ![BTZ-043-M1](M1_food_VPC.png)
 
 Prediction corrected VPC showing the observed 2.5th, 50th, and 97.5th percentiles (lines) and confidence intervals from the PK model. From top left to bottom right: Predicted M1 concentrations for standard food after dose, standard food, no food, and high-fat food. 
 
-## VPC of M2 stratified on food-type
+## VPC of M2 stratified on food type
 
 ![BTZ-043-M2](M2_food_VPC.png)
 
